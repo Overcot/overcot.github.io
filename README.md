@@ -5,8 +5,7 @@ I work as Software Engineer at Apple, focusing on tooling to triage and analyze 
 Currently located in San Diego, CA.
 
 ## Contact info:
-[mail](mailto:ivashko.alexey96@gmail.com)
-[linkedin](https://www.linkedin.com/in/overcot/)
+[Mail](mailto:ivashko.alexey96@gmail.com), [Linkedin](https://www.linkedin.com/in/overcot/)
 
 ## Work Experience
 In December 2022 I joined Apple to work as a software engineer focusing on developing tools and solutions that help engineers analyze performance issues. 
