@@ -1,6 +1,12 @@
 # Alexey's Ivashko Homepage
 
-I work as Software Engineer at Apple, focusing on tooling to triage and analyze systems performance. Currently located in San Diego, CA.
+I work as Software Engineer at Apple, focusing on tooling to triage and analyze systems performance. 
+
+Currently located in San Diego, CA.
+
+## Contact info:
+[mail](mailto:ivashko.alexey96@gmail.com)
+[linkedin](https://www.linkedin.com/in/overcot/)
 
 ## Work Experience
 In December 2022 I joined Apple to work as a software engineer focusing on developing tools and solutions that help engineers analyze performance issues. 
@@ -13,5 +19,6 @@ From Sep 2018 till June 2020, I worked as a software engineer at [Sberbank](http
 
 I finished my bachelors and masters degree at Moscow State University, Faculty of Computational Mathematics and Cybernetics frmo 2013-2019
 
-## Contact info:
-[mail](mailto:ivashko.alexey96@gmail.com)
+## Interests
+
+In my free time I like hiking, skiing and playing video games. Quite a fan of cup of :coffee:
